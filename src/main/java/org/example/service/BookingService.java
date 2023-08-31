@@ -1,12 +1,12 @@
-package com.wigell.wigellpadel.service;
+package org.example.service;
 
-import com.wigell.wigellpadel.Exceptions.ResourceNotFoundException;
-import com.wigell.wigellpadel.entities.Booking;
-import com.wigell.wigellpadel.entities.Court;
-import com.wigell.wigellpadel.entities.User;
-import com.wigell.wigellpadel.repository.BookingRepository;
-import com.wigell.wigellpadel.repository.CourtRepository;
-import com.wigell.wigellpadel.repository.UserRepository;
+import org.example.Exceptions.ResourceNotFoundException;
+import org.example.entities.Booking;
+import org.example.entities.Court;
+import org.example.entities.User;
+import org.example.repository.BookingRepository;
+import org.example.repository.CourtRepository;
+import org.example.repository.UserRepository;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

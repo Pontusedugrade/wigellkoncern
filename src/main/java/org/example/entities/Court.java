@@ -1,4 +1,4 @@
-package com.wigell.wigellpadel.entities;
+package org.example.entities;
 
 import jakarta.persistence.*;
 

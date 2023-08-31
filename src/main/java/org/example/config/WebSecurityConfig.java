@@ -1,4 +1,4 @@
-package com.wigell.wigellpadel.config;
+package org.example.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

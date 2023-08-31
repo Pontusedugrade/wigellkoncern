@@ -1,6 +1,6 @@
-package com.wigell.wigellpadel.service;
+package org.example.service;
 
-import com.wigell.wigellpadel.entities.User;
+import org.example.entities.User;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;

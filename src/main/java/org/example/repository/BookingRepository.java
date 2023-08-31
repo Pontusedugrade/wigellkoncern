@@ -1,6 +1,6 @@
-package com.wigell.wigellpadel.repository;
+package org.example.repository;
 
-import com.wigell.wigellpadel.entities.Booking;
+import org.example.entities.Booking;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface BookingRepository extends JpaRepository<Booking, Integer> {

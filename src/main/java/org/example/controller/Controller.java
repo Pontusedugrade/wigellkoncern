@@ -1,11 +1,11 @@
-package com.wigell.wigellpadel.controller;
+package org.example.controller;
 
-import com.wigell.wigellpadel.entities.Booking;
-import com.wigell.wigellpadel.entities.Court;
-import com.wigell.wigellpadel.entities.User;
-import com.wigell.wigellpadel.service.BookingService;
-import com.wigell.wigellpadel.service.CourtService;
-import com.wigell.wigellpadel.service.UserService;
+import org.example.entities.Booking;
+import org.example.entities.Court;
+import org.example.entities.User;
+import org.example.service.BookingService;
+import org.example.service.CourtService;
+import org.example.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

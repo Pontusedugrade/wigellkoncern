@@ -1,4 +1,4 @@
-package com.wigell.wigellpadel.service;
+package org.example.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

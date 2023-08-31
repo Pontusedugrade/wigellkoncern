@@ -1,12 +1,9 @@
-package com.wigell.wigellpadel.entities;
+package org.example.entities;
 
 import jakarta.persistence.*;
-import org.springframework.cglib.core.Local;
 import org.springframework.format.annotation.DateTimeFormat;
 
-import java.sql.Time;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 @Entity
 @Table(name = "Booking")

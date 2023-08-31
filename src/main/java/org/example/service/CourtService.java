@@ -1,8 +1,7 @@
-package com.wigell.wigellpadel.service;
+package org.example.service;
 
-import com.wigell.wigellpadel.entities.Booking;
-import com.wigell.wigellpadel.entities.Court;
-import com.wigell.wigellpadel.repository.CourtRepository;
+import org.example.entities.Court;
+import org.example.repository.CourtRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

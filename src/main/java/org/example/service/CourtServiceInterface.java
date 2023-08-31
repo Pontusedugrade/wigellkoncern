@@ -1,7 +1,6 @@
-package com.wigell.wigellpadel.service;
+package org.example.service;
 
-import com.wigell.wigellpadel.entities.Booking;
-import com.wigell.wigellpadel.entities.Court;
+import org.example.entities.Court;
 
 import java.util.List;
 
